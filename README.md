@@ -15,11 +15,9 @@ Agents that can actually **do stuff online, solve real tasks, and go beyond bull
 All engraved `69k ★ | Nice`:
 
 - **Grand Prize:** MacBook Pro 14" M4 Pro
+- **iPad Pro:** Highest number of Impressions on X
 - **$690:** Nicest Demo Hack
-- **$420:** Most Bugs Found in Browser-Use
-- **AirPods Pro:** Nicest Impressions on X Hack
-
-💰 **Total prize pool: $6,900**
+- **$420:** Most Bugs Found
 
 ---
 
