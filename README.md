@@ -1,6 +1,6 @@
 # 🚀 #nicehack69 – The Browser-Use Hackathon
 
-<img src="./static/nicehack-banner.png" alt="NiceHack69 Banner">
+<img src="./static/nicehack-69.png" alt="NiceHack69 Banner">
 
 We just hit **69,000 GitHub ⭐. Nice.**  
 To celebrate, we’re launching **#nicehack69** — a Twitter-first hackathon with a $6,900 prize pool.

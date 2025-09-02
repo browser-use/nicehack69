@@ -1,0 +1,39 @@
+name: 🏆 Hackathon Submission
+description: Submit your #nicehack69 project
+title: "[SUBMISSION] "
+labels: ["nicehack69", "submission"]
+body:
+  - type: input
+    id: twitter_demo
+    attributes:
+      label: Twitter/X Demo Post
+      description: Link to your Twitter/X post with demo video and #nicehack69 hashtag
+      placeholder: https://twitter.com/username/status/...
+    validations:
+      required: true
+
+  - type: input
+    id: github_repo
+    attributes:
+      label: GitHub Repository
+      description: Link to your project's GitHub repository
+      placeholder: https://github.com/username/project-name
+    validations:
+      required: true
+
+  - type: input
+    id: project_name
+    attributes:
+      label: Project Name
+      placeholder: My Awesome Browser-Use Agent
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What does it do?
+      description: Brief description of your project
+      placeholder: My project uses Browser-Use to...
+    validations:
+      required: true

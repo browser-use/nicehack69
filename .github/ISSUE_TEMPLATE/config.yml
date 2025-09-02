@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🌐 Browser-Use GitHub
+    url: https://github.com/browser-use/browser-use
+    about: Main Browser-Use repository
+  - name: 🐦 Follow @browser_use
+    url: https://twitter.com/browser_use
+    about: Twitter updates and announcements

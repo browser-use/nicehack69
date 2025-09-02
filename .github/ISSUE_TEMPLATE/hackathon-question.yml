@@ -1,0 +1,22 @@
+name: ❓ Hackathon Question
+description: Ask a question about #nicehack69
+title: "[QUESTION] "
+labels: ["nicehack69", "question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: What do you need help with?
+      placeholder: How do I...?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Any other details that might help us answer your question
+      placeholder: I'm trying to build... and I'm stuck on...
+    validations:
+      required: false
