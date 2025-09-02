@@ -23,8 +23,7 @@ All engraved `69k ★ | Nice`:
 
 ## 📅 Deadline
 
-Submissions close when **Browser-Use GitHub hits 69,420 ⭐**  
-(or Monday, September 8th at 9AM PST, whichever comes first).
+Submissions close on **September 6, 2025** (6.9.2025) (approx when Browser-Use hits 69,420 ⭐)
 
 ---
 
