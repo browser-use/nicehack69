@@ -40,6 +40,8 @@ This is a **Twitter-first hackathon**:
    - Link to your Twitter demo post
    - Link to your GitHub repo
 
+Go to the [Discord Community](https://discord.com/channels/1303749220842340412/1412240418606940170) to discuss your project and get help.
+
 ---
 
 ## 🎯 Criteria
@@ -56,6 +58,7 @@ This is a **Twitter-first hackathon**:
 
 - [Browser-Use on GitHub](https://github.com/browser-use/browser-use)
 - [Browser-Use Cloud](https://cloud.browser-use.com)
+- [Discord Community](https://discord.com/channels/1303749220842340412/1412240418606940170)
 
 ---
 
