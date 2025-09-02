@@ -31,7 +31,7 @@ Submissions close on **September 6, 2025** (6.9.2025) (approx when Browser-Use h
 
 This is a **Twitter-first hackathon**:
 
-1. **Announce participation** → Requote the kickoff tweet with **#nicehack69**
+1. **Announce participation** → Requote the [kickoff tweet](https://x.com/gregpr07/status/1962682690651701288) with **#nicehack69**
 2. **Get building** → DM [@browser_use](https://twitter.com/browser_use) to receive free Browser-Use Cloud credits
 3. **Final submission** must include:
    - A **DEMO video** (posted on Twitter/X with hashtag `#nicehack69`)
