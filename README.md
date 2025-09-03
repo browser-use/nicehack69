@@ -23,7 +23,7 @@ All engraved `69k ★ | Nice`:
 
 ## 📅 Deadline
 
-Submissions close on **September 6, 2025** (6.9.2025) (approx when Browser-Use hits 69,420 ⭐)
+Submissions close on **September 10, 2025** (6.9.2025) 11:59 PST (approx when Browser-Use hits 69,420 ⭐)
 
 ---
 
